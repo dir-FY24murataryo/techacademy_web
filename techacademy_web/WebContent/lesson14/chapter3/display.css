@@ -1,0 +1,19 @@
+.r {
+    background-color: pink;
+}
+
+.g{
+    background-color:  palegreen;
+}
+
+.b{
+    background-color:  skyblue;
+}
+
+div.r{
+    display: inline;
+}
+
+div.g{
+    display: inline;
+}
